@@ -76,11 +76,21 @@ textarea::placeholder{
 
 .formlink{
     font-size: 20px;
-    margin-top: 20px;
     display: inline-block;
+    padding:10px 20px;
+    background:rgb(0, 229, 255);
+    color:white;
+    text-decoration:none;
+    border-radius: 5px;
+    font-size: 18px;
 }
 
-.powitanie{
-    font-size: 24px;
+.formlink:hover{
+    background:white;
+    color:rgb(0, 229, 255);
+}
+
+b{
+    font-size: 7vw;
     text-align: center;
 }
