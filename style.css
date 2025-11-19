@@ -94,6 +94,8 @@ textarea::placeholder{
 .powitanie{
     font-size: 3vw;
     text-align: center;
+    color:white;
+    text-decoration: darkviolet overline;
 }
 
 .srodek{
