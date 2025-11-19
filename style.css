@@ -83,6 +83,7 @@ textarea::placeholder{
     text-decoration:none;
     border-radius: 5px;
     font-size: 18px;
+    text-align: center;
 }
 
 .formlink:hover{
@@ -91,6 +92,6 @@ textarea::placeholder{
 }
 
 b{
-    font-size: 7vw;
+    font-size: 3vw;
     text-align: center;
 }
