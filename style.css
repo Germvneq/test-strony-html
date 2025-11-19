@@ -91,13 +91,14 @@ textarea::placeholder{
 .formlink:hover{
     background:white;
     color:rgb(0, 229, 255);
+    border-color:rgb(0, 229, 255);
 }
 
 .powitanie{
     font-size: 3vw;
     text-align: center;
     color:white;
-    text-shadow: 1vw 1vw 5px black;
+    text-shadow: 0vw 0vw 1.5dvw rgb(0, 229, 255);
 }
 
 .srodek{
