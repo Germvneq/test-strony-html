@@ -5,6 +5,7 @@
 	<title>JG Studios</title>
     <link rel="icon" type="image/x-icon" href="jgs ikona.png">
     <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
 
 <!--test zapisywania zmian-->
 </head>
@@ -36,19 +37,6 @@
                 <input type="reset" class="przycisk" value="Wyczyść">
         </fieldset>
     </form>
-	<script>
-        const tak = document.getElementById("tak");
-
-        tak.addEventListener("invalid", function (){
-            tak.setCustomValidity("A przetwarzanie danych to co?");
-        });
-
-        tak.addEventListener("input", function(){
-            tak.setCustomValidity("");
-        });
-
-
-    </script>
 </body>
 </html>
 
