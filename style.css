@@ -96,7 +96,7 @@ textarea::placeholder{
     font-size: 3vw;
     text-align: center;
     color:white;
-    text-decoration: darkviolet overline;
+    text-shadow: 1vw 1vw 5px black;
 }
 
 .srodek{
