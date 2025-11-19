@@ -3,7 +3,7 @@ body{
     font-style: italic;
     font-family: fantasy;
     text-align:left;
-    background-image: url("sped.jpg");
+    background-image: url("images\sped.jpg");
     background-attachment:fixed;
     margin:auto;
     padding:auto;
@@ -17,7 +17,7 @@ fieldset{
     margin-bottom:auto;
     width:fit-content;
     padding:20px;
-    background-image: url("tlo.png");
+    background-image: url("images/tlo.png");
 }
 h2{
     color:white;
