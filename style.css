@@ -1,5 +1,4 @@
 body{
-    color: rgb(0, 229, 255);
     font-style: italic;
     font-family: fantasy;
     text-align:left;
@@ -10,7 +9,9 @@ body{
     overflow:hidden;
 }
 
-
+.kolor{
+    color: rgb(0, 229, 255);
+}
 
 fieldset{
     margin:auto;
