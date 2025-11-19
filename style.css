@@ -76,13 +76,14 @@ textarea::placeholder{
 
 
 .formlink{
-    font-size: 20px;
+    font-size: 6vw;
     display: inline-block;
     padding:10px 20px;
-    background:rgb(0, 229, 255);
+    background:rgb(0, 0, 0);
     color:white;
     text-decoration:none;
     border-radius: 5px;
+    border-color: rgb(0, 229, 255);
     font-size: 18px;
     text-align: center;
 }
