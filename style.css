@@ -95,3 +95,8 @@ textarea::placeholder{
     font-size: 3vw;
     text-align: center;
 }
+
+.srodek{
+    text-align: center;
+    margin-top: 20px;
+}
