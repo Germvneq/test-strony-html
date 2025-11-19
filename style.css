@@ -1,0 +1,74 @@
+body{
+    color: rgb(0, 229, 255);
+    font-style: italic;
+    font-family: fantasy;
+    text-align:left;
+    background-image: url("sped.jpg");
+    background-attachment:fixed;
+    margin:auto;
+    padding:auto;
+    overflow:hidden;
+}
+
+
+
+fieldset{
+    margin:auto;
+    margin-bottom:auto;
+    width:fit-content;
+    padding:20px;
+    background-image: url("tlo.png");
+}
+h2{
+    color:white;
+    text-align:center;
+    text-decoration: underline;
+}
+.przycisk{
+    color:rgb(0, 229, 255);
+    background-color: black;
+    transition: 200ms;
+    padding:2%;
+    border-radius: 30%;
+    border-color: aqua;
+}
+
+.przycisk:hover {
+    color: aqua;
+    padding:1%;
+    background-color: red;
+}
+
+.obrazek{
+    width:10vw;
+    text-align: center;
+    margin-top:auto;
+    margin-right:10px;
+}
+
+.pole{
+    background-image: linear-gradient(to bottom left, rgb(0, 229, 255),black);
+    border-color: aqua;
+    color: rgb(255, 255, 255);
+    border-radius: 5%;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+    
+    
+}
+
+a:hover{
+    color:rgb(0, 229, 255);
+}
+
+
+input::placeholder{
+    color:rgb(255, 255, 255);
+}
+
+textarea::placeholder{
+    color:rgb(255, 255, 255);
+}
