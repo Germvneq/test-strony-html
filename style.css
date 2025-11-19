@@ -72,3 +72,15 @@ input::placeholder{
 textarea::placeholder{
     color:rgb(255, 255, 255);
 }
+
+
+.formlink{
+    font-size: 20px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.powitanie{
+    font-size: 24px;
+    text-align: center;
+}
