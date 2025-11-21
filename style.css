@@ -16,14 +16,19 @@ body{
 fieldset{
     margin:auto;
     margin-bottom:auto;
+    margin-top: auto;
     width:fit-content;
     padding:6vw;
     background-image: url("images/tlo.png");
 }
+
+
+
 h2{
     color:white;
     text-align:center;
     text-decoration: underline;
+    margin-top: auto;
 }
 .przycisk{
     color:rgb(0, 229, 255);
