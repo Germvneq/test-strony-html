@@ -47,6 +47,13 @@ h2{
     margin-right:10px;
 }
 
+.obrazek_str_gl{
+    width:15vw;
+    text-align: center;
+    margin-top:auto;
+    margin-right:10px;
+}
+
 .pole{
     background-image: linear-gradient(to bottom left, rgb(0, 229, 255),black);
     border-color: aqua;
@@ -84,7 +91,6 @@ textarea::placeholder{
     text-decoration:none;
     border-radius: 5px;
     border-color: rgb(0, 229, 255);
-    font-size: 18px;
     text-align: center;
 }
 
@@ -95,10 +101,10 @@ textarea::placeholder{
 }
 
 .powitanie{
-    font-size: 3vw;
+    font-size: 5vw;
     text-align: center;
     color:white;
-    text-shadow: 0vw 0vw 1.5dvw rgb(0, 229, 255);
+    text-shadow: 0vw 0vw 2vw rgb(0, 229, 255);
 }
 
 .srodek{
