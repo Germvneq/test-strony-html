@@ -17,7 +17,7 @@ fieldset{
     margin:auto;
     margin-bottom:auto;
     width:fit-content;
-    padding:20px;
+    padding:6vw;
     background-image: url("images/tlo.png");
 }
 h2{
@@ -81,10 +81,10 @@ textarea::placeholder{
     font-size: 6vw;
     display: inline-block;
     padding:10px 20px;
-    background:rgb(0, 0, 0);
+    background-image:linear-gradient(to bottom left, black, rgb(0, 229, 255));
     color:white;
     text-decoration:none;
-    border-radius: 5px;
+    border-radius: 30px;
     border-color: rgb(0, 229, 255);
     text-align: center;
 }
