@@ -47,12 +47,7 @@ h2{
     margin-right:10px;
 }
 
-.obrazek_str_gl{
-    width:15vw;
-    text-align: center;
-    margin-top:auto;
-    margin-right:10px;
-}
+
 
 .pole{
     background-image: linear-gradient(to bottom left, rgb(0, 229, 255),black);
